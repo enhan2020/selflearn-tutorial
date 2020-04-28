@@ -1,4 +1,0 @@
-#Tue Apr 21 03:24:25 SGT 2020
-base.0=C\:\\Users\\gohgo\\Desktop\\AndroidProject\\photos-sharing-master\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
-path.0=classes.dex
-renamed.0=classes.dex
