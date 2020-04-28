@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "262139178157",
+    "firebase_url": "https://photo-sharing-25446.firebaseio.com",
+    "project_id": "photo-sharing-25446",
+    "storage_bucket": "photo-sharing-25446.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262139178157:android:06e5c8ed982a54b571aa24",
+        "android_client_info": {
+          "package_name": "com.google.codelab.photos.sharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262139178157-dtip8srbrois19lli3llusaetp9sgafh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.codelab.photos.sharing",
+            "certificate_hash": "f5ef78f395fa62f5f7491927f432c9dfdc5580d4"
+          }
+        },
+        {
+          "client_id": "262139178157-ht02l1rmvst3mrrotsdl1k0965k7c0et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbJDagfl_KAMBWRoPsA0y5QkZOuwqR7HU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262139178157-ht02l1rmvst3mrrotsdl1k0965k7c0et.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
